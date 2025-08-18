@@ -1,8 +1,9 @@
 {
     "latest-news": 0,
     "0": {
-        "title": "Préparations",
+        "title": "Préparations pour l'an prochain",
         "description": "L'objectif actuellement est de préparer le plus de contenu pour l'année prochaîne. Je tourne et monte des vidéos et YTPMVs en avance, et je travaille sur certains projets, comme TR. Je commence aussi à changer les noms (comme Yunranohi en Yunayunori), et j'ai refais l'infrastructure de mon site Github Pages. Je retravaille aussi tout le lore de Yunayunori, et quand j'en aurait fait une bonne partie, je commencerai à travailler sur les jeux qui sortiront l'année prochaine, le but étant d'en sortir le plus pour rendre le projet plus intéressant.",
+        "date": "2025-08-18T00:00:00.000Z",
         "projects": [
             "Création de vidéos",
             "YTPMVs",
