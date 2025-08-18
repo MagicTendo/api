@@ -1,12 +1,12 @@
 # Set the main page and disable directory indexes
-DirectoryIndex index.html
+DirectoryIndex index
 Options -Indexes
 
 
 # Error pages
-ErrorDocument 403 https://magictendo.github.io/GithubPages/
-ErrorDocument 404 https://magictendo.github.io/GithubPages/
-ErrorDocument 500 https://magictendo.github.io/GithubPages/
+ErrorDocument 403 https://magictendo.github.io/api/index
+ErrorDocument 404 https://magictendo.github.io/api/index
+ErrorDocument 500 https://magictendo.github.io/api/index
 
 
 # Begin gzip compression

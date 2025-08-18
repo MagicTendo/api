@@ -1,472 +1,470 @@
 {
-    "_credit_fr": "YTPMV - API créée par BakaTaida / https://magictendo.github.io/GithubPages/api/ytpmv.json",
-    "_credit_en": "YTPMV - API made by BakaTaida / https://magictendo.github.io/GithubPages/api/ytpmv.json",
     "ytpmv_sources": {
         "0_source": {
             "source": "Jack Black Defines An Octagon (Sesame Street)",
             "source_link": "https://www.youtube.com/watch?v=_7jpz_55EdM",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/jack-black-octagon.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/jack-black-octagon.png"
         },
         "1_source": {
             "source": "Kitchen Gun & Toilet Grenade (The Peter Serafinowicz Show)",
             "source_link": "https://www.youtube.com/watch?v=sGn0CPWhcq8",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/kitchen-gun.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/kitchen-gun.png"
         },
         "2_source": {
             "source": "Old Spice (Terry Crews)",
             "source_link": "https://www.youtube.com/watch?v=Hq2SlCja3zo",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/old-spice.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/old-spice.png"
         },
         "3_source": {
             "source": "Billy Mays",
             "source_link": "https://www.youtube.com/watch?v=91K8MvN01b4",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/billy-mays.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/billy-mays.png"
         },
         "4_source": {
             "source": "Phil Swift",
             "source_link": "https://www.youtube.com/watch?v=dXnzQKqPBQA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/phil-swift.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/phil-swift.png"
         },
         "5_source": {
             "source": "Dunkaccino (Jack and Jill)",
             "source_link": "https://www.youtube.com/watch?v=AeLuQQH1OHA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/dunkaccino.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/dunkaccino.png"
         },
         "6_source": {
             "source": "Ronald McDonald (ドナルド・マクドナルド)",
             "source_link": "https://www.youtube.com/watch?v=qTyMra7bBkI",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/donarudo.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/donarudo.png"
         },
         "7_source": {
             "source": "Kill Me Baby (キルミーベイベー)",
             "source_link": "https://www.youtube.com/watch?v=Yk8DAb99QeQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/kill-me-baby.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/kill-me-baby.png"
         },
         "8_source": {
             "source": "Yuyushiki (ゆゆ式)",
             "source_link": "https://www.youtube.com/watch?v=XrVMk7gn0CM",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/yuyushiki.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/yuyushiki.png"
         },
         "9_source": {
             "source": "Nichijō (日常)",
             "source_link": "https://www.youtube.com/watch?v=qUk1ZoCGqsA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/nichijou.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/nichijou.png"
         },
         "10_source": {
             "source": "Kemono Friends (けものフレンズ)",
             "source_link": "https://www.youtube.com/watch?v=Yxg-AADx39w",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/kemono-friends.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/kemono-friends.png"
         },
         "11_source": {
             "source": "Non Non Biyori (のんのんびより)",
             "source_link": "https://www.youtube.com/watch?v=l_cB9m4GM6k",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/non-non-biyori.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/non-non-biyori.png"
         },
         "12_source": {
             "source": "Kin-iro Mosaic (きんいろモザイク)",
             "source_link": "https://www.youtube.com/watch?v=yVZGEupnM4s",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/kin-iro-mosaic.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/kin-iro-mosaic.png"
         },
         "13_source": {
             "source": "Padoru Padoru (パドルパドル)",
             "source_link": "https://www.youtube.com/watch?v=JAHTCjCInJ0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/padoru-padoru.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/padoru-padoru.png"
         },
         "14_source": {
             "source": "Z-Kai (Z会)",
             "source_link": "https://www.youtube.com/watch?v=oz6mxRGcbxU",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/z-kai.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/z-kai.png"
         },
         "15_source": {
             "source": "Battle Dome (バトルドーム)",
             "source_link": "https://www.youtube.com/watch?v=nEH2rFK5XBU",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/battle-dome.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/battle-dome.png"
         },
         "16_source": {
             "source": "Kabikira (カビキラー)",
             "source_link": "https://www.youtube.com/watch?v=784_uilWlIs",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/kabikira.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/kabikira.png"
         },
         "17_source": {
             "source": "Cookie☆ (クッキー☆)",
             "source_link": "https://www.youtube.com/watch?v=rq5GRMsHhQc",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/cookie.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/cookie.png"
         },
         "18_source": {
             "source": "Cat Planet",
             "source_link": "https://www.youtube.com/watch?v=sdtehRUfzWc",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/cat-planet.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/cat-planet.png"
         },
         "19_source": {
             "source": "GameCube Intro",
             "source_link": "https://www.youtube.com/watch?v=CpmYW-gCSy4",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/gamecube-intro.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/gamecube-intro.png"
         },
         "20_source": {
             "source": "Mario Games (Mario 64 / Mario RPG / ...)",
             "source_link": "https://www.youtube.com/watch?v=vT3AaQ77ges",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/mario.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/mario.png"
         },
         "21_source": {
             "source": "Hotel Mario",
             "source_link": "https://www.youtube.com/watch?v=b4qRp4OfUn8",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/hotel-mario.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/hotel-mario.png"
         },
         "22_source": {
             "source": "Link: The Faces of Evil",
             "source_link": "https://www.youtube.com/watch?v=LfWGYW4uZVg",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/link-the-faces-of-evil.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/link-the-faces-of-evil.png"
         },
         "23_source": {
             "source": "Windows Errors",
             "source_link": "https://www.youtube.com/watch?v=HaBoOUCpRpw",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/windows-error.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/windows-error.png"
         },
         "24_source": {
             "source": "Never Gonna Give You Up (Rick Astley)",
             "source_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/never-gonna-give-you-up.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/never-gonna-give-you-up.png"
         },
         "25_source": {
             "source": "Edouard Khil (Trololo Song)",
             "source_link": "https://www.youtube.com/watch?v=0q6yphdZhUA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/trololo-song.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/trololo-song.png"
         },
         "26_source": {
             "source": "Snoop Dogg",
             "source_link": "https://www.youtube.com/watch?v=JcBIzuuIdOA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/snoop-dogg.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/snoop-dogg.png"
         },
         "27_source": {
             "source": "Barack Obama (Epic Rap Battle Of History)",
             "source_link": "https://www.youtube.com/watch?v=dX_1B0w7Hzc",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/barack-obama.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/barack-obama.png"
         },
         "28_source": {
             "source": "We Are Number One (Lazy Town)",
             "source_link": "https://www.youtube.com/watch?v=PfYnvDL0Qcw",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/we-are-number-one.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/we-are-number-one.png"
         },
         "29_source": {
             "source": "Oppa Gangnam Style (PSY)",
             "source_link": "https://www.youtube.com/watch?v=9bZkp7q19f0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/oppa-gangnam-style.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/oppa-gangnam-style.png"
         },
         "30_source": {
             "source": "Gachimuchi",
             "source_link": "https://www.youtube.com/watch?v=jhzzQd5hdCM",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/gachimuchi.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/gachimuchi.png"
         },
         "31_source": {
             "source": "Spongebob",
             "source_link": "https://www.youtube.com/watch?v=r9L4AseD-aA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/spongebob.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/spongebob.png"
         },
         "32_source": {
             "source": "Big Chungus",
             "source_link": "https://www.youtube.com/watch?v=0gct28UEKws",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/big-chungus.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/big-chungus.png"
         },
         "33_source": {
             "source": "The Pelones (Sr Pelo)",
             "source_link": "https://www.youtube.com/watch?v=d4yHoeEk_w8",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/the-pelones.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/the-pelones.png"
         },
         "34_source": {
             "source": "Team Fortress",
             "source_link": "https://www.youtube.com/watch?v=36lSzUMBJnc",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/team-fortress.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/team-fortress.png"
         },
         "35_source": {
             "source": "Michael Rosen",
             "source_link": "https://www.youtube.com/watch?v=t2b_HB6TkVI",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/michael-rosen.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/michael-rosen.png"
         },
         "36_source": {
             "source": "El Chavo Del Ocho",
             "source_link": "https://www.youtube.com/watch?v=I1ynPyE0Osw",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/el-chavo-del-ocho.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/el-chavo-del-ocho.png"
         },
         "37_source": {
             "source": "MrBeast",
             "source_link": "https://www.youtube.com/watch?v=Gq26LxkAawU",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/mrbeast.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/mrbeast.png"
         },
         "38_source": {
             "source": "VSauce",
             "source_link": "https://www.youtube.com/c/vsauce1",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/vsauce.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/vsauce.png"
         },
         "39_source": {
             "source": "JonTron",
             "source_link": "https://www.youtube.com/user/JonTronShow",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/jontron.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/jontron.png"
         },
         "40_source": {
             "source": "Scott The Woz",
             "source_link": "https://www.youtube.com/channel/UC4rqhyiTs7XyuODcECvuiiQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/scott-the-woz.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/scott-the-woz.png"
         },
         "41_source": {
             "source": "Tom Scott",
             "source_link": "https://www.youtube.com/c/TomScottGo",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/tom-scott.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/tom-scott.png"
         },
         "42_source": {
             "source": "iDubbbzTV",
             "source_link": "https://www.youtube.com/c/iDubbbzTV",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/idubbbztv.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/idubbbztv.png"
         },
         "43_source": {
             "source": "Cyprien",
             "source_link": "https://www.youtube.com/c/cyprien",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/cyprien.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/cyprien.png"
         },
         "44_source": {
             "source": "Vtubers (Hololive)",
             "source_link": "https://www.youtube.com/watch?v=7U6eHY1M9WM",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/vtubers.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/vtubers.png"
         },
         "45_source": {
             "source": "SGI (エア本)",
             "source_link": "https://www.nicovideo.jp/watch/sm38071622",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/airmoto.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/airmoto.png"
         },
         "46_source": {
             "source": "Christmas in July (HH Gregg)",
             "source_link": "https://www.youtube.com/watch?v=QJzt8L_i7_U",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/hh-gregg.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/hh-gregg.png"
         },
         "47_source": {
             "source": "Taco Bell Dorito Taco Review (Aaron Fink)",
             "source_link": "https://www.youtube.com/watch?v=_sSVqaSl89A",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/taco-bell.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/taco-bell.png"
         },
         "48_source": {
             "source": "Shūzō Matsuoka (松岡修造)",
             "source_link": "https://www.youtube.com/watch?v=kfo1r06NxTo",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/shuzo-matsuoka.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/shuzo-matsuoka.png"
         },
         "49_source": {
             "source": "Nicolas Cage",
             "source_link": "https://www.youtube.com/watch?v=jPPmWflEF3w",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/nicolas-cage.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/nicolas-cage.png"
         },
         "50_source": {
             "source": "Minecraft (Mojang)",
             "source_link": "https://www.youtube.com/watch?v=iQEuXUaS7MQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/minecraft.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/minecraft.png"
         },
         "51_source": {
             "source": "Jorge Truchon",
             "source_link": "https://www.youtube.com/watch?v=GVBQLvc6O24",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/jorge-truchon.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/jorge-truchon.png"
         },
         "52_source": {
             "source": "Yuka Kanzaki - 神崎悠香 (Deluca - デルカ)",
             "source_link": "https://www.youtube.com/watch?v=NqrQ8b8lIJc",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/yuka-kanzaki.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/yuka-kanzaki.png"
         },
         "53_source": {
             "source": "SNCF",
             "source_link": "https://www.youtube.com/watch?v=k5GCHUV7Iac",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/sncf.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/sncf.png"
         },
         "54_source": {
             "source": "Philippe le parapet !",
             "source_link": "https://www.youtube.com/watch?v=t997h6xShP0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/philippe-le-parapet.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/philippe-le-parapet.png"
         },
         "55_source": {
             "source": "Brice de Nice",
             "source_link": "https://www.youtube.com/watch?v=OBEh1gnjYkM",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/brice-de-nice.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/brice-de-nice.png"
         },
         "56_source": {
             "source": "Jean Pierre Coffe",
             "source_link": "https://www.youtube.com/watch?v=SxkA2oue6ag",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/jean-pierre-coffe.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/jean-pierre-coffe.png"
         },
         "57_source": {
             "source": "Various Sources",
             "source_link": "https://www.youtube.com/watch?v=9c_nvE4joKg&list=PLBV7HgnKQ8QMwGKabM0UgDb6deKb0i8KI",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/various-sources.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/various-sources.png"
         },
         "58_source": {
             "source": "Elf the movie",
             "source_link": "https://www.youtube.com/watch?v=KFuooAeLDZc",
             "_comment": "bonus link https://www.youtube.com/watch?v=K6xWZkYMQYw",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/elf-the-movie.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/elf-the-movie.png"
         },
         "59_source": {
             "source": "Beadon",
             "source_link": "https://www.youtube.com/watch?v=D8Gg2ApDJ2U",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/beadon.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/beadon.png"
         },
         "60_source": {
             "source": "Momiji Inubashiri",
             "source_link": "https://www.youtube.com/watch?v=ArJe--CGatg",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/momiji-inubashiri.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/momiji-inubashiri.png"
         },
         "61_source": {
             "source": "drums, cello, flute, trumpet and snare (can't find the real name)",
             "source_link": "https://www.youtube.com/watch?v=F6dkXzc2CBE",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/drums.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/drums.png"
         },
         "62_source": {
             "source": "The Final Big Ben Bongs",
             "source_link": "https://www.youtube.com/watch?v=ZY_cmEdbqvQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/the-final-big-ben-bongs.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/the-final-big-ben-bongs.png"
         },
         "63_source": {
             "source": "Nostalgia Critic",
             "source_link": "https://www.youtube.com/watch?v=30fqK1Rvd6k",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/nostalgia-critic.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/nostalgia-critic.png"
         },
         "64_source": {
             "source": "HIKAKIN",
             "source_link": "https://www.youtube.com/watch?v=itZqqSUDAkI",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/hikakin.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/hikakin.png"
         },
         "65_source": {
             "source": "Kurugaya",
             "source_link": "https://www.youtube.com/watch?v=SsG25r2zZ3E",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/kurugaya.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/kurugaya.png"
         },
         "66_source": {
             "source": "Trump \"We need to build a wall\"",
             "source_link": "https://www.youtube.com/watch?v=sajL4Hr1yIk",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/trump.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/trump.png"
         },
         "67_source": {
             "source": "Super Smash Bros Hammer",
             "source_link": "https://www.youtube.com/watch?v=kp27rum7ne8",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/hammer.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/hammer.png"
         },
         "68_source": {
             "source": "Charmx",
             "source_link": "https://www.youtube.com/watch?v=LJzU2jo-Af4",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/charmx.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/charmx.png"
         },
         "69_source": {
             "source": "Morsay",
             "source_link": "https://www.youtube.com/watch?v=uQryTxQYolo",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/morsay.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/morsay.png"
         },
         "70_source": {
             "source": "Steamed Hams",
             "source_link": "https://www.youtube.com/watch?v=4jXEuIHY9ic",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/steamed-hams.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/steamed-hams.png"
         },
         "71_source": {
             "source": "The Angry Video Game Nerd",
             "source_link": "https://www.youtube.com/watch?v=1A5B8fXp0aU",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/the-angry-video-game-nerd.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/the-angry-video-game-nerd.png"
         },
         "72_source": {
             "source": "MysteryGuitarMan",
             "source_link": "https://www.youtube.com/watch?v=xB0pS3rPbwA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/mysteryguitarman.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/mysteryguitarman.png"
         },
         "73_source": {
             "source": "Ashley (from WarioWare)",
             "source_link": "https://www.youtube.com/watch?v=DAFhoaKtVFg",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/ashley.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/ashley.png"
         },
         "74_source": {
             "source": "Robotnik",
             "source_link": "https://www.youtube.com/watch?v=QqxqaFT9xcM",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/robotnik.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/robotnik.png"
         },
         "75_source": {
             "source": "Spandau Ballet - True",
             "source_link": "https://www.youtube.com/watch?v=F2T99YbxwWA",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/spandau-ballet.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/spandau-ballet.png"
         },
         "76_source": {
             "source": "Athena P",
             "source_link": "https://www.youtube.com/watch?v=p7mt9ROJh1c",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/athena-p.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/athena-p.png"
         },
         "77_source": {
             "source": "Alex Jones",
             "source_link": "https://www.youtube.com/watch?v=3tVrntKgdN0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/alex-jones.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/alex-jones.png"
         },
         "78_source": {
             "source": "is the pool clean ?",
             "source_link": "https://www.youtube.com/watch?v=QI7RukDrEok",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/is-the-pool-clean.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/is-the-pool-clean.png"
         },
         "79_source": {
             "source": "Fancy Island (Lomando)",
             "source_link": "https://www.youtube.com/watch?v=ODDaA8Q94YY",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/fancy-island.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/fancy-island.png"
         },
         "80_source": {
             "source": "Ena (Joel Guerra)",
             "source_link": "https://www.youtube.com/watch?v=xUwJWv38FpY",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/ena.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/ena.png"
         },
         "81_source": {
             "source": "Blue Archive (ブルーアーカイブ)",
             "source_link": "https://www.youtube.com/watch?v=-xHqglB973c",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/blue-archive.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/blue-archive.png"
         },
         "82_source": {
             "source": "I am a surgeon! (The Good Doctor)",
             "source_link": "https://www.youtube.com/watch?v=8byiwOY5XM0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/surgeon.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/surgeon.png"
         },
         "83_source": {
             "source": "ManWith10Toes",
             "source_link": "https://www.youtube.com/watch?v=8aJfVC8gGjA&list=PLkAqx5EV7l_AAw6_BsxkMfXInXvgmTq-h",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/man-with-10-toes.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/man-with-10-toes.png"
         },
         "84_source": {
             "source": "Morning Rescue",
             "source_link": "https://www.youtube.com/watch?v=PD-_oLjmCGY",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/morning-rescue.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/morning-rescue.png"
         },
         "85_source": {
             "source": "Yain Sidae",
             "source_link": "https://www.youtube.com/watch?v=Zz12d_eGx3s",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/yain-sidae.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/yain-sidae.png"
         },
         "86_source": {
             "source": "Machikado Mazoku (The Demon Girl Next Door)",
             "source_link": "https://www.youtube.com/watch?v=QCBdGYf06kQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/machikado-mazoku.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/machikado-mazoku.png"
         },
         "87_source": {
             "source": "brahkie",
             "source_link": "https://www.youtube.com/watch?v=YU4iPKeYsH0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/brahkie.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/brahkie.png"
         },
         "88_source": {
             "source": "Family Guy",
             "source_link": "https://www.youtube.com/watch?v=LVPNXsc4wsQ",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/family-guy.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/family-guy.png"
         },
         "89_source": {
             "source": "Splatoon",
             "source_link": "https://www.youtube.com/watch?v=HN-69DCfw_0",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/splatoon.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/splatoon.png"
         },
         "90_source": {
             "source": "Shinryaku! Ika Musume",
             "source_link": "https://www.youtube.com/watch?v=tR64Xn5syrw",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/ika-musume.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/ika-musume.png"
         },
         "91_source": {
             "source": "Girls' Last Tour (少女終末旅行)",
             "source_link": "https://www.youtube.com/watch?v=mF5MKNwbRhg",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/girls-last-tour.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/girls-last-tour.png"
         },
         "92_source": {
             "source": "Lucky☆Star (らき☆すた)",
             "source_link": "https://www.youtube.com/watch?v=6iseNlvH2_s",
-            "source_image": "https://magictendo.github.io/GithubPages/img/api/ytpmv/lucky-star.png"
+            "source_image": "https://magictendo.github.io/api/img/ytpmv/lucky-star.png"
         }
     },
     "ytpmv_musics": {
@@ -1025,8 +1023,12 @@
         "139_music": {
             "music": "FIREFLY ZONE (RED ZONE)",
             "music_link": "https://www.youtube.com/watch?v=4K-rrFCxTm8"
+        },
+        "140_music": {
+            "music": "Second ZONE (RED ZONE)",
+            "music_link": "https://www.youtube.com/watch?v=8a_ZK7Kqbr0"
         }
     },
     "total_sources": "93",
-    "total_musics": "140"
+    "total_musics": "141"
 }

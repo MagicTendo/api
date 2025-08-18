@@ -12,6 +12,7 @@ And yes, I had to do multiple commits and there are some weird push messages, it
 
 ## Content
 
-- Yunranohi API
+- Yunayunori API
+- Baka News API
 - Baka Wiki API
 - YTPMV API
