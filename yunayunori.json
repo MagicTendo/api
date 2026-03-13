@@ -1,0 +1,145 @@
+{
+    "shutanopikuseru": {
+        "name": "Shūtānopikuseru",
+        "version": "2.0.0",
+        "date": "2022-02-14T23:00:00.000Z",
+        "tags": [
+            "Arcade",
+            "Shooter"
+        ],
+        "colors": {
+            "hex": "#ad03ad",
+            "rgb": [
+                173,
+                3,
+                173
+            ]
+        },
+        "link": "https://yunranohi.rf.gd/game/shutanopikuseru",
+        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/shutanopikuseru/shutanopikuseru-logo.png",
+        "leaderboard": [
+            {
+                "username": "CoolMan",
+                "points": "1060",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/shutanopikuseru/coolman.png"
+            },
+            {
+                "username": "BakaTaida",
+                "points": "1020",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/bakataida.png"
+            },
+            {
+                "username": "Leo Le Pik",
+                "points": "880",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/leo-le-pik.png"
+            },
+            {
+                "username": "Liam",
+                "points": "140",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/liam.png"
+            },
+            {
+                "username": "Raphaël",
+                "points": "60",
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/raphael.png"
+            }
+        ],
+        "finished": true
+    },
+    "worst-game": {
+        "name": "「何とも最悪のゲーム、とても出鱈目と本当に悪いと大いに憤ろしいと中々異様と甚だ難しいと非常に煩わしいと余程おもんねーなど、誰も遊ぶな…」",
+        "version": "1.0.0",
+        "date": "2024-12-23T23:00:00.000Z",
+        "tags": [
+            "Horrible",
+            "Platformer",
+            "Puzzle"
+        ],
+        "colors": {
+            "hex": "#cdc200",
+            "rgb": [
+                205,
+                194,
+                0
+            ]
+        },
+        "link": "https://yunranohi.rf.gd/game/worst-game",
+        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/worst-game/worst-game-logo.png",
+        "leaderboard": [
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "date": "???",
+                "proof": null
+            }
+        ],
+        "finished": false
+    },
+    "ropuge-batoru": {
+        "name": "ROPUGE BATORU",
+        "version": "1.0.0",
+        "date": "2025-01-31T23:00:00.000Z",
+        "tags": [
+            "Arcade",
+            "CLI",
+            "RPG"
+        ],
+        "colors": {
+            "hex": "#3f1527",
+            "rgb": [
+                63,
+                21,
+                39
+            ]
+        },
+        "link": "https://github.com/MagicTendo/ROPUGE-BATORU",
+        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/ropuge-batoru/ropuge-batoru-logo.png",
+        "leaderboard": [
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            },
+            {
+                "username": "???",
+                "points": "???",
+                "proof": null
+            }
+        ],
+        "finished": false
+    }
+}

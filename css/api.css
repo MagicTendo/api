@@ -1,0 +1,40 @@
+.title {
+    margin-block: 10px;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2em;
+}
+
+.subtitle {
+    margin-block: 0;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.api-title {
+    margin-block: 15px;
+    text-decoration: underline;
+    font-size: 1.3em;
+}
+
+.api-container {
+    margin-inline: 5px;
+    margin-bottom: 30px;
+    border: var(--darker-secondary-color) 4px solid;
+    border-radius: 10px;
+}
+
+.api-container p {
+    padding: 8px;
+    margin: 0;
+}
+
+.api-container p:nth-of-type(odd) {
+    background-color: var(--darker-secondary-color);
+}
+
+.api-container p:nth-of-type(even) {
+    background-color: var(--lighter-secondary-color);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
