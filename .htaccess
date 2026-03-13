@@ -1,0 +1,85 @@
+# Set the main page and disable directory indexes
+DirectoryIndex index.html
+Options -Indexes
+
+
+# Error pages
+ErrorDocument 403 index.html
+ErrorDocument 404 index.html
+ErrorDocument 500 index.html
+
+
+# Prevent from viewing the .htaccess file
+<Files ".htaccess">
+    Require all denied
+</Files>
+
+
+# Security
+<IfModule mod_headers.c>
+    # Header always set X-Content-Type-Options nosniff # Prevent MIME type sniffing
+    # Header always set X-Frame-Options DENY # Prevent clickjacking
+    # Header always set Content-Security-Policy "default-src 'self'" # Content Security Policy (basic)
+    # Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains" # Force HTTPS for 1 year
+</IfModule>
+
+
+# GZIP compression
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+    AddOutputFilterByType DEFLATE application/x-font
+    AddOutputFilterByType DEFLATE application/x-font-opentype
+    AddOutputFilterByType DEFLATE application/x-font-otf
+    AddOutputFilterByType DEFLATE application/x-font-truetype
+    AddOutputFilterByType DEFLATE application/x-font-ttf
+    AddOutputFilterByType DEFLATE application/x-javascript
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE font/opentype
+    AddOutputFilterByType DEFLATE font/otf
+    AddOutputFilterByType DEFLATE font/ttf
+    AddOutputFilterByType DEFLATE image/svg+xml
+    AddOutputFilterByType DEFLATE image/x-icon
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/javascript
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/xml
+
+    BrowserMatch ^Mozilla/4 gzip-only-text/html
+    BrowserMatch ^Mozilla/4\.0[678] no-gzip
+    BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+
+    Header append Vary User-Agent
+</IfModule>
+
+
+# Rewrite Engine
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Force HTTPS
+    RewriteEngine On
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    # Remove .html extension in URL
+    RewriteCond %{REQUEST_FILENAME}.html -f
+    RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [QSA,L]
+
+    # Remove www
+    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
+</IfModule>
+
+
+# LiteSpeed Cache
+<IfModule Litespeed>
+    # Cache static files for 1 week
+    RewriteRule \.(css|js|png|jpg|jpeg|gif|ico|svg|woff|woff2)$ - [E=Cache-Control:max-age=604800]
+
+    # Cache HTML for 1 hour
+    RewriteRule \.html$ - [E=Cache-Control:max-age=3600]
+</IfModule>
