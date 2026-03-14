@@ -1,4 +1,4 @@
-# 🍣 BakaTaida's API
+# 🍣 BakaTaida's APIs
 
 This repository includes of all my little APIs that I use on my other websites and projects !
 

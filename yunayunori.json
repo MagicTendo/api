@@ -16,32 +16,32 @@
             ]
         },
         "link": "https://yunranohi.rf.gd/game/shutanopikuseru",
-        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/shutanopikuseru/shutanopikuseru-logo.png",
+        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/shutanopikuseru/shutanopikuseru-logo.png",
         "leaderboard": [
             {
                 "username": "CoolMan",
                 "points": "1060",
-                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/shutanopikuseru/coolman.png"
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/shutanopikuseru/coolman.png"
             },
             {
                 "username": "BakaTaida",
                 "points": "1020",
-                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/bakataida.png"
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/bakataida.png"
             },
             {
                 "username": "Leo Le Pik",
                 "points": "880",
-                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/leo-le-pik.png"
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/leo-le-pik.png"
             },
             {
                 "username": "Liam",
                 "points": "140",
-                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/liam.png"
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/liam.png"
             },
             {
                 "username": "Raphaël",
                 "points": "60",
-                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/raphael.png"
+                "proof": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/raphael.png"
             }
         ],
         "finished": true
@@ -64,7 +64,7 @@
             ]
         },
         "link": "https://yunranohi.rf.gd/game/worst-game",
-        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/worst-game/worst-game-logo.png",
+        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/worst-game/worst-game-logo.png",
         "leaderboard": [
             {
                 "username": "???",
@@ -112,7 +112,7 @@
             ]
         },
         "link": "https://github.com/MagicTendo/ROPUGE-BATORU",
-        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/img/yunayunori/ropuge-batoru/ropuge-batoru-logo.png",
+        "logo": "https://raw.githubusercontent.com/MagicTendo/api/refs/heads/main/assets/images/yunayunori/ropuge-batoru/ropuge-batoru-logo.png",
         "leaderboard": [
             {
                 "username": "???",
